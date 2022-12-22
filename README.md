@@ -7,7 +7,7 @@ The PIERCE project has a lot of features included with it. Some of these feature
 - Tor Web browser (with an additional HTTP web proxy to intercept traffic)
 - Network Sniffer
 - Disassembler (x86 and x64), Hex Editor, and Memory Editor (not as efficient or fully-functional)
-- SSH Client (only relies on stdout)
+- SSH Client (only relies on stdout/stderr)
 - Encoder and Encryptor / Decoder and Decryptor
 - Bruteforcing (Subdomains, directories, HTTP Post queries etc.)
 - And a lot more little content
