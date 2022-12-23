@@ -10,10 +10,12 @@ The PIERCE project has a lot of features included with it. Some of these feature
 - SSH Client (only relies on stdout/stderr)
 - Encoder and Encryptor / Decoder and Decryptor
 - Bruteforcing (Subdomains, directories, HTTP Post queries etc.)
+- Includes Monaco (browser-based code editor with syntax highlighting)
 - And a lot more little content
 
 The project in general could definitely be improved in a lot of other ways and could use some fixes here and there.
 But I am not working on it as much anymore, so the room for improvement could never come or much later in the future.
+There might still be some debugging code within it as well.
 
 Dedicated website:
 https://joenthewizard.github.io/pierce-project-website
