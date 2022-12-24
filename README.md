@@ -7,7 +7,7 @@ The PIERCE project has a lot of features included with it. Some of these feature
 - Tor Chromium-based Web browser (with an additional HTTP web proxy to intercept traffic)
 - Network Sniffer
 - Disassembler (x86 and x64), Hex Editor, and Memory Editor (not as efficient or fully-functional)
-- SSH Client (only relies on stdout/stderr)
+- SSH Client (only relies on stdout/stderr) with SFTP functionalities
 - Encoder and Encryptor / Decoder and Decryptor
 - Bruteforcing (Subdomains, directories, HTTP Post queries etc.)
 - Includes Monaco (browser-based code editor with syntax highlighting)
