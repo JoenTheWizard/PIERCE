@@ -4,7 +4,7 @@ The PIERCE project is a multi-functional pen-testing and cyber-security tool mai
 
 The PIERCE project has a lot of features included with it. Some of these features include:
 
-- Tor Web browser (with an additional HTTP web proxy to intercept traffic)
+- Tor Chromium-based Web browser (with an additional HTTP web proxy to intercept traffic)
 - Network Sniffer
 - Disassembler (x86 and x64), Hex Editor, and Memory Editor (not as efficient or fully-functional)
 - SSH Client (only relies on stdout/stderr)
