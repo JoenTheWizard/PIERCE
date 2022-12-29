@@ -1,6 +1,6 @@
 # The PIERCE project
 
-![](PIERCE/mVPenTester/FileContents/pierce.png)
+![](mVPenTester/FileContents/pierce.png)
 
 The PIERCE project is a multi-functional pen-testing and cyber-security tool mainly for Windows (since it's made with WPF) I made ages ago. I am not working on it as much as of right now.
 
