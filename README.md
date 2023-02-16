@@ -10,7 +10,7 @@ The PIERCE project has a lot of features included with it. Some of these feature
 - SSH Client (only relies on stdout/stderr) with SFTP functionalities
 - Encoder and Encryptor / Decoder and Decryptor
 - Bruteforcing (Subdomains, directories, HTTP Post queries etc.)
-- Includes Monaco (browser-based code editor with syntax highlighting)
+- Includes Monaco (browser-based code editor with syntax highlighting which powers VS Code)
 - And a lot more little content
 
 The project in general could definitely be improved in a lot of other ways and could use some fixes here and there.
